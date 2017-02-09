@@ -1,0 +1,640 @@
+prerequisite		/ˌpriːˈrekwəzɪt/						n.先决条件；前提	adj.作为前提的；必备的
+reconciled		/'rekənsaɪld/						adj.顺从的；和解的	动词reconcile的过去时和过去分词.		
+segment		/ˈseɡmənt/						n.部分；弓形；瓣；段；节	vt.分割		
+temporarily		/ˈtemprərəli/						adv.暂时地；临时地		
+thrill		/θrɪl/						n.激动；引起激动的事物；震颤（医学）	v.(使)激动；感到紧张		
+affiliated		/əˈfɪlieɪtɪd/						adj.附属的；有关连的		
+allure		/əˈlʊr/						v.诱惑；吸引	n.诱惑力；吸引力		
+bilingual		/ˌbaɪˈlɪŋɡwəl/						adj.双语的		
+centuries		/'sentʃərɪz/						n.世纪	名词century的复数形式.		
+compose		/kəmˈpoʊz/						v.作曲；创作；编排；形成；使镇静		
+composer		/kəmˈpoʊzər/						n.创作者（尤指乐曲的）		
+ecosystem		/ˈiːkoʊsɪstəm/						n.生态系统		
+enough		/ɪˈnʌf/						adj.足够的	adv.足够地；充分地；相当；尚	pron.足够		
+escape		/ɪˈskeɪp/						v.逃跑；逃脱；逃避；被忘掉；泄露；去度假	n.逃跑；逃脱；逃避；泄露；度假；[计算机]退出键		
+explicit		/ɪkˈsplɪsɪt/						adj.明确的；清晰的；清楚的；露骨的		
+fundamental		/ˌfʌndəˈmentl/						adj.基本的；根本的；重要的	n.基础；基本原理		
+guardians		/'ɡɑːdiənz/						监护人		
+hawk		/hɔːk/						n.鹰；鹰派人物、主战分子；贪婪的人；清嗓	v.沿街叫卖；散布；鹰扑；放鹰行猎；清嗓		
+latency		/ˈleɪtənsi/						n.潜伏；潜伏期；延迟		
+lecture		/ˈlektʃər/						n.讲课；演讲；训话	v.训斥；讲课；教导		
+legislation		/ˌledʒɪsˈleɪʃn/						n.法律；法规；立法		
+possession		/pəˈzeʃn/						n.拥有；财产；所有；殖民地		
+premier		/prɪˈmɪr/						n.总理；首相	adj.首位的；第一的；最初的		
+reduce		/rɪˈduːs/						v.减少；缩小；使落魄；简化；还原		
+relevant		/ˈreləvənt/						adj.相关的；切题的；中肯的；有重大关系的；有意义的，目的明确的		
+replica		/ˈreplɪkə/						n.复制品		
+retina		/ˈretənə/						n.视网膜		
+Shane								n.谢恩(男子名)		
+sink		/sɪŋk/						v.下沉；沉没；渗透；低落；变低；衰弱；（太阳）落下	n.水槽；沟渠；散热器；接收端		
+camel		/ˈkæml/						n.骆驼；浮船箱；驼色		
+convention		/kənˈvenʃn/						n.大会；协定；惯例；公约		
+digit		/ˈdɪdʒɪt/						n.数字；位数；手指；脚趾		
+essentially		/ɪˈsenʃəli/						adv.本质上；本来		
+initial		/ɪˈnɪʃl/						n.(词)首字母	adj.开始的；最初的；字首的	vt.签姓名的首字母于		
+issue		/ˈɪʃuː/						n.议题；问题；期刊号；一次发行额；发行；<律>子女	v.发表；公布；正式发给；发行；流出		
+mandate		/ˈmændeɪt/						n.命令；指令；要求；授权	v.把(某一地区)置于委任管理下		
+prevail		/prɪˈveɪl/						vi.盛行；获胜；劝说		
+recur		/rɪˈkɜːr/						vi.重现；再发生		
+able		/ˈeɪbl/						adj.能够的；有能力的；能干的		
+astute		/əˈstuːt/						adj.机敏的；精明的；狡猾的		
+capable		/ˈkeɪpəbl/						adj.有能力的；能干的；有...的可能性		
+childish		/ˈtʃaɪldɪʃ/						adj.孩子气的；幼稚的		
+competence		/ˈkɑːmpɪtəns/						n.能力；胜任；管辖权		
+eminent		/ˈemɪnənt/						adj.著名的；卓越的		
+excellent		/ˈeksələnt/						adj.杰出的；优秀的；极好的		
+foolish		/ˈfuːlɪʃ/						adj.愚蠢的；荒谬的；可笑的		
+idiot		/ˈɪdiət/						n.白痴；傻瓜；笨蛋		
+ignorant		/ˈɪɡnərənt/						adj.无知的；愚昧的；不知道的		
+mediocre		/ˌmiːdiˈoʊkər/						adj.平庸的；平凡的		
+perceptive		/pərˈseptɪv/						adj.敏感的；有洞察力的；感知的		
+prominent		/ˈprɑːmɪnənt/						adj.显著的；杰出的；突出的		
+resource		/ˈriːsɔːrs/						n.资源；机敏；才略；寄托；消遣		
+sage		/seɪdʒ/						n.圣人；哲人	n.鼠尾草；蒿属植物	adj.贤明的；明智的		
+smart		/smɑːrt/						adj.时髦的；漂亮的；聪明的；敏捷的；整洁的；厉害的	vi.刺痛；难过；烦恼	n.刺痛；苦恼	adv.（=smartly）		
+stupid		/ˈstuːpɪd/						adj.愚蠢的；笨拙的；无聊的；乏味的	n.傻瓜		
+wise		/waɪz/						adj.聪明的；有智慧的；明智的；有见识的		
+wit		/wɪt/						n.智力；才智；机智；风趣	v.<古>知道；即		
+mock		/mɑːk/						v.嘲弄；嘲笑；模仿	n.嘲笑；模仿；戏弄	adj.假的；伪装的；模拟的		
+wire		/ˈwaɪər/						n.金属丝；电线；电报	vt.发电报；装电线；(通过电线)接通；用金属丝把...连一起；电汇		
+tally		/ˈtæli/						n.帐；记分；一致；标签	vt.计算；记录；使一致	vi.计算；记分；一致		
+wired		/ˈwaɪərd/						adj.有线的；供以电线的；以铁丝围起的；十分兴奋的	动词wire的过去式和过去分词形式.		
+resembling		/rɪ'zemblɪŋ/						adj.类似的	动词resemble的现在分词形式.		
+declarations		/ˌdeklə'reɪʃənz/						n.声明；公告	名词declaration的复数形式.		
+establish		/ɪˈstæblɪʃ/						v.建立；确立；创办；安顿		
+namely		/ˈneɪmli/						adv.即；也就是		
+reinvent		/ˌriːɪnˈvent/						v.再发明；改造；重新使用		
+pragmatic		/præɡˈmætɪk/						adj.实用主义的；实际的		
+collate		/kəˈleɪt/						v.对照；校对；校勘；整理		
+populate		/ˈpɑːpjuleɪt/						v.构成人口；居住于；【计】填入		
+distinct		/dɪˈstɪŋkt/						adj.明显的；清晰的；不同的；独特的		
+coupled		/'kʌpld/						adj.成对的(连接的；共轭的；联系的)		
+mimic		/ˈmɪmɪk/						vt.模仿；模拟	n.模仿者；仿制品	adj.模仿的；假的		
+corrections		/kə'rekʃnz/						修正		
+preference		/ˈprefrəns/						n.偏爱；优先；喜爱物；优惠		
+assured		/əˈʃʊrd/						adj.确实的；保障的；有自信的	动词assure的过去式和过去分词.		
+tricks		/trɪks/						n.戏法	名词trick的复数形式.		
+fooling		/'fuːlɪŋ/						n.开玩笑的言行；戏谑	动词fool的现在分词.		
+scratch		/skrætʃ/						v.抓；搔（痒）；划破；划掉	n.抓痕；乱写；抓的声音；起跑线	adj.无让步的		
+decouple		/diːˈkʌpl/						vt.分离；拆散		
+matters		/'mætəz/						n.事情	名词matter的复数形式.		
+reusability		/rjuːzə'bɪlɪtɪ/						n.复用性；重新使用的可能性		
+encourage		/ɪnˈkɜːrɪdʒ/						vt.鼓励；促进；支持		
+reusable		/ˌriːˈjuːzəbl/						adj.可再度使用的；可多次使用的		
+tabular		/ˈtæbjələr/						adj.制成表的；扁平的		
+slots		/s'lɒts/						n.槽	名词slot的复数形式.		
+inefficient		/ˌɪnɪˈfɪʃnt/						adj.无效率的；无能的；不称职的		
+dynamically		/daɪˈnæmɪkli/						adv.动力地；动态地；有活力地		
+impressive		/ɪmˈpresɪv/						adj.给人深刻印象的		
+representation		/ˌreprɪzenˈteɪʃn/						n.陈述；表现；表示法		
+subdirectory		/ˈsʌbdərektəri/						n.分目录；子目录		
+aside		/əˈsaɪd/						n.旁白；顺便说的话	adv.在一边；另外；离开		
+similarly		/ˈsɪmələrli/						adv.相似地；类似地		
+ensure		/ɪnˈʃʊr/						vt.担保；保证；使安全；确保		
+generic		/dʒəˈnerɪk/						adj.一般的；普通的；共有的；没有商标的	n.无商标的药品		
+respectively		/rɪˈspektɪvli/						adv.分别地；各自地		
+amend		/əˈmend/						vt.修正；改进		
+conversion		/kənˈvɜːrʒn/						n.转变；换算		
+abstract		/ˈæbstrækt/						adj.抽象的；理论的；抽象派的	n.摘要；抽象派艺术作品	v.(/æbˈstrækt/)把…抽象出；提取；抽取；转移(注意力等)；做…的摘要；<婉>偷		
+redundancy		/rɪˈdʌndənsi/						n.冗余；多余信息；备份；裁员		
+incrementalism		/ˌɪnkrə'mentlˌɪzəm/						n.渐进主义		
+opposed		/əˈpoʊzd/						adj.反对的；对立的；敌对的	动词oppose的过去式及过去分词.		
+rundown		/ˈrʌndaʊn/						n.扼要报告；概要；[棒球]夹杀		
+comfortable		/ˈkʌmftəbl/						adj.舒适的；充裕的		
+differentiate		/ˌdɪfəˈrenʃieɪt/						vt.区分；使差异；求导数	vi.区别；产生差别；区别对待		
+perhaps		/pərˈhæps/						adv.也许；可能		
+reliance		/rɪˈlaɪəns/						n.信赖；所信赖的人或物		
+approach		/əˈproʊtʃ/						v.靠近；接近；接洽；要求；达到；动手处理	n.途径；方法；接近；接洽；要求；路径；进场着陆；相似的事物		
+tightly		/ˈtaɪtli/						adv.紧紧地；坚固地		
+partially		/ˈpɑːrʃəli/						adv.部分地；不公平地		
+interpret		/ɪnˈtɜːrprɪt/						v.口译；解释；翻译；诠释		
+lookup		/'lʊkˌʌp/						n.检查；查找，查询；搜索		
+philosophy		/fəˈlɑːsəfi/						n.哲学；哲理		
+tackle		/ˈtækl/						v.处理；对付；阻截(对方球员)；与…交涉	n.滑车；用具；铲球；(美式足球)拦截手		
+idiom		/ˈɪdiəm/						n.成语；惯用语；方言；风格；特色		
+separated		/ˈsepəreɪtɪd/						adj.分开的	动词separate的过去式和过去分词.		
+stab		/stæb/						v.刺；戳；刺伤	n.刺；戳；刺痛；尝试		
+silly		/ˈsɪli/						adj.愚蠢的；琐屑的；可笑的；犯晕的	n.（通常指小孩子）淘气鬼；傻孩子		
+parentheses		/pəˈrenθəsiːz/						parenthesis的复数，圆括号		
+routines		/ruː'tiːnz/						n.常规性工作；例行公事；日常事务	名词routine的复数形式.		
+omitted		/oʊ'mɪtɪd/						adj.省略了的	动词omit的过去式和过去分词.		
+opt		/ɑːpt/						vi.选择；决定		
+structured		/'strʌktʃəd/						adj.有组织的；有安排的		
+machinery		/məˈʃiːnəri/						n.机械；(总称)机器		
+bundle		/ˈbʌndl/						n.捆；束；包；大笔钱	v.捆；把 ... 扎成一捆；匆忙地走		
+contrast		/ˈkɑːntræst/						n.对比；差别；对照物	v.对比；成对照	n.[计算机] 反差		
+transmission		/trænsˈmɪʃn/						n.传输；传播；播送；变速器		
+typically		/ˈtɪpɪkli/						adv.典型地；代表性地；通常，一般；不出所料地		
+sharpen		/ˈʃɑːrpən/						vt.使尖锐；磨快；加剧	vi.变尖锐		
+versatility		/ˌvɜːsəˈtɪləti/						n.多才多艺；多样性；多功能		
+metric		/ˈmetrɪk/						adj.公制的；米制的；十进制的	n.标准；度量		
+falcon		/ˈfælkən/						n.猎鹰；隼；轻炮		
+poll		/poʊl/						n.民意测验；投票；票数	v.做民意测验；获得 ... 票		
+crop		/krɑːp/						n.农作物；收成；庄稼；(一)批	v.修剪；啃吃；收获；出现		
+dimensional		/dɪ'menʃənəl/						adj.维度的；次元的；空间的；尺寸的		
+axis		/ˈæksɪs/						n.轴；中枢		
+coordinates		/kə'ʊɔːdənəts/						n.坐标；相配之衣物	名词coordinate的复数形式.		
+axes		/ˈæksiːz/						n.轴；轴线；斧头	名词axis和axe的复数形式.		
+dimensions		/dɪ'menʃnz/						n.面积；大小；容积		
+multidimensional		/ˌmʌltidaɪˈmenʃənl/						adj.多维的；多面的		
+homogeneous		/ˌhoʊməˈdʒiːniəs/						adj.同质的；同种的；相似的		
+malicious		/məˈlɪʃəs/						adj.怀恶意的；恶毒的		
+scalar		/ˈskeɪlər/						adj.标量的，数量的；梯状的，分等级的	n.【数】标量，数量		
+Ryan								n.赖安(男子名)		
+promote		/prəˈmoʊt/						vt.促进；提升；升迁；发起；促销，推销		
+fluff		/flʌf/						n.软毛；绒毛；无价值物；<口>失误	v.（使）变柔软；搞糟；忘词		
+suck		/sʌk/						vt.啜；吸入；吸收	vi.吸；吸收；奉承；<俚>烂	n.吸吮；吸力		
+digest		/'dɑɪdʒɛst/						n.摘要	vt.消化；理解	vi.消化		
+evaluation		/ɪˌvæljuˈeɪʃn/						n.估价；评价		
+meta		/'metə/						pref. 在 ... 之后； 变换； 超越；【计】元，meta语言； 介于 ... 之间		
+embedded		/ɪm'bedɪd/						adj.植入的；嵌入的		
+ingredients		/ɪŋ'riːdiənts/						n.配料；作料；材料	名词ingredient的复数形式.		
+gallery		/ˈɡæləri/						n.美术馆；画廊；顶层楼座；走廊		
+peek		/piːk/						v.偷看；窥视	n.偷看；窥见		
+submission		/səbˈmɪʃn/						n.提交；服从；屈服；[律]意见		
+forge		/fɔːrdʒ/						vt.锻造；伪造；建立	vi.伪造；做铁匠	n.锻炉；铁匠铺；锻造车间		
+complicated		/ˈkɑːmplɪkeɪtɪd/						adj.复杂难懂的；结构复杂的	动词complicate的过去式和过去分词.		
+criteria		/kraɪˈtɪəriə/						n.标准；尺度；准则	名词criterion的复数形式.		
+acquired		/ə'kwaɪəd/						adj.已取得的；已获得的；已成习惯的	动词acquire的过去式和过去分词.		
+distinction		/dɪˈstɪŋkʃn/						n.荣誉；差别；优秀；对比；区分		
+cluster		/ˈklʌstər/						n.群；簇；丛；串	v.群集；丛生；使成群		
+patch		/pætʃ/						n.小片；补丁；眼罩；（贴在伤口的）膏药；【生态】斑块	vt.修补；补缀；解决；掩饰		
+independently		/ˌɪndɪˈpendəntli/						adv.独立地；自立地		
+interact		/ˌɪntərˈækt/						vi.相互作用；相互联系；相互影响；互动		
+intended		/ɪnˈtendɪd/						adj.预期的；故意的	n.未婚妻		
+obviate		/ˈɑːbvieɪt/						v.排除；消除；避免		
+polling		/ˈpoʊlɪŋ/						n.投票；民意测验	动词poll的现在分词形式.		
+dump		/dʌmp/						vt.倾倒；抛弃；倾销；抛售；倾卸；[计]转储	vi.倾倒；突然落下	n.垃圾场；军需供应站		
+typical		/ˈtɪpɪkl/						adj.特有的；典型的；有代表性的		
+implements		/'ɪmplɪmənts/						n.工具	名词implement的复数.		
+inspect		/ɪnˈspekt/						v.检查；视察		
+avenue		/ˈævənuː/						n.林荫道；大街；途径手段		
+satisfies		/'sætɪsfaɪz/						动词satisfy的第三人称单数		
+tribal		/ˈtraɪbl/						adj.部落的		
+underlie		/ˌʌndərˈlaɪ/						v.位于 ... 之下；成为 ... 的基础；[经]优先于		
+facet		/ˈfæsɪt/						n.小平面；方面；刻面		
+prior		/ˈpraɪər/						adj.优先的；在前的；更重要的	adv.居先；在前		
+interoperability		/'ɪntərɒpərə'bɪlətɪ/						n.互操作性；互用性		
+assert		/əˈsɜːrt/						vt.断言；主张，坚持；生效；维护		
+authorities		/ɔː'θɒrɪtɪs/						n.当局；官方	名词authority的复数形式.		
+thus		/ðʌs/						adv.这样；如此；因此；从而		
+rapid		/ˈræpɪd/						adj.短时间发生的；急速的；迅速的；快的；险峻的	n.急流；湍滩		
+avast		/əˈvæst/						int.[航]停住！停止航行！		
+elastica		/ɪ'læstɪkə/						n.弹力(橡胶)		
+undue		/ˌʌnˈduː/						adj.过分的；不适当的		
+Wildcards								通配符		
+crippled		/'krɪpəld/						adj.跛的；伤残的	动词cripple的过去式和过去分词形式.		
+NetEase								网易公司		
+registration		/ˌredʒɪˈstreɪʃn/						n.注册；登记；挂号		
+mask		/mæsk/						n.伪装；面罩；面具；[计算机]掩码	v.掩饰；戴面具；遮盖		
+insufficient		/ˌɪnsəˈfɪʃnt/						adj.不足的		
+formulation		/ˌfɔːmjuˈleɪʃn/						n.公式化；规划；构想；配方		
+precisely		/prɪˈsaɪsli/						adv.精确地		
+Blanche								n.布兰奇(女子名)		
+carte		/kɑːt/						n.菜单；价目表		
+circumstance		/ˈsɜːrkəmstæns/						n.环境；详情；事件；(复数)境况		
+unification		/ˌjuːnɪfɪˈkeɪʃn/						n.统一；一致		
+satisfy		/ˈsætɪsfaɪ/						v.使满意；满足；使信服；清偿		
+surface		/ˈsɜːrfɪs/						n.表面；外表；平面	adj.表面的；肤浅的	vt.在 ... 上加表层；使 ... 成平面	vi.浮到水面；显露；在表面工作		
+mitigation		/ˌmɪtɪˈɡeɪʃn/						n.缓和；减轻；镇静		
+against		/əˈɡenst/						prep.反对；逆；违背；倚靠；映衬；防御；相比；相对		
+foreseeable		/fɔːrˈsiːəbl/						adj.可预见到的		
+equivalent		/ɪˈkwɪvələnt/						adj.等价的 相等的	n.相等物		
+litigation		/ˌlɪtɪˈɡeɪʃn/						n.诉讼；起诉		
+facility		/fəˈsɪləti/						n.设备；设施；才能；资质；灵巧；熟练		
+medical		/ˈmedɪkl/						adj.医疗的；医学的；医药的；内科的		
+violations		/vaɪə'leɪʃnz/						n.侵害，违反（名词violation的复数形式）		
+altogether		/ˌɔːltəˈɡeðər/						adv.总共；完全；总的来说		
+realised		/'rɪəlɑɪzd/						adj.实现的；完成的	动词realise的过去式和过去分词形式.	=realized.		
+facilities		/fə'sɪlɪtɪz/						n.设施；设备；工具	名词facility的复数形式.		
+cryptography		/krɪpˈtɑːɡrəfi/						n.密码术；密码系统		
+prototype		/ˈproʊtətaɪp/						n.原型；范例；雏形		
+dispatch		/dɪˈspætʃ/						v.派遣；发送；迅速完成；处死	n.急件；派遣；发送；新闻报道		
+perspectives		/pəs'pektɪvz/						视角		
+discard		/dɪsˈkɑːrd/						vt.丢弃；抛弃	vi.丢牌	n.丢牌；废牌		
+stash		/stæʃ/						vt.隐藏；储藏	n.隐藏地点；隐藏物		
+gotcha		/ˈɡɑːtʃə/						int. 这下抓住你了； 我明白了	<口>=I'v got you(it)!		
+densely		/densli/						adv.密集地；浓厚地		
+spammer		/ˈspæmə(r)/						n.垃圾邮件发送者		
+combat		/ˈkɑːmbæt/						n.战斗；试图解决	v.战斗；与 ... 斗争；试图解决	adj.战斗的		
+relay		/ˈriːleɪ/						vt.转播；转达；中继；接力；接替	n.继电器；接力赛；替班		
+rough		/rʌf/						adj.粗糙的；粗略的，大概的；粗暴的；艰难的；讨厌的；不适的；汹涌的	adv.粗糙地；粗暴地	n.粗制品；暴徒；高低不平的路面	vt.使粗糙；殴打；草拟		
+committee		/kəˈmɪti/						n.委员会		
+substitution		/ˌsʌbstɪˈtjuːʃn/						n.代替；替换；交换		
+reach out								伸出； 伸展		
+clue		/kluː/						n.线索；提示		
+inspector		/ɪnˈspektər/						n.检查员；巡视员；巡官		
+supersede		/ˌsuːpərˈsiːd/						vt.取代；接替；废弃		
+emphasize		/ˈemfəsaɪz/						vt.强调；着重；使突出		
+hierarchy		/ˈhaɪərɑːrki/						n.等级制度；统治集团；[生]级系		
+wrapper		/ˈræpər/						n.(饺子)皮；包装用品		
+assertion		/əˈsɜːrʃn/						n.断言；主张；论断；自信，坚定；被维护的东西		
+ratified		/'rætɪfaɪd/						adj.批准的；认可的	动词ratify的过去式和过去分词形式.		
+consumer		/kən'suːmə/						n.消费者；用户；消费品		
+premium		/ˈpriːmiəm/						n.额外费用；奖金；保险费	n.(商)溢价	adj.高价的；优质的		
+squiggly		/ˈskwɪɡli/						adj.弯弯曲曲的；波纹形的		
+increasingly		/ɪnˈkriːsɪŋli/						adv.逐渐地；越来越多地		
+hook		/hʊk/						n.钩；钩状物；勾拳	v.钩住；弯成(钩状)；当妓女		
+absurd		/əbˈsɜːrd/						adj.荒唐的；可笑的；不合理的	n.荒唐		
+conglomerate		/kənˈɡlɑːmərət/						n.联合企业；密集体；城郊混合区；[地]砾岩	adj.聚成一团的；成簇的	vt.使聚集；使结成；结合		
+trick		/trɪk/						n.诡计；花招；把戏；诀窍	vt.欺骗；戏弄	adj.有诡计的；有阴谋的		
+apparently		/əˈpærəntli/						adv.表面上；似乎；显然		
+colliding		/kə'laɪdɪŋ/						n.碰撞	动词collide的现在分词形式.		
+awesome		/ˈɔːsəm/						adj.可怕的；表示敬畏的；了不起的；精彩的，绝妙的		
+familiarize		/fəˈmɪliəraɪz/						vt.使熟悉		
+specification		/ˌspesɪfɪˈkeɪʃn/						n.规格；详述		
+protocol		/ˈproʊtəkɔːl/						n.外交礼仪；草案；协议；规章制度；【医】记录；科学实验报告		
+standardization		/ˌstændədaɪˈzeɪʃn/						n.标准化；用标准校验		
+memo		/ˈmemoʊ/						n.备忘录		
+revealed		/rɪ'viːld/						发现；透露；显露,动词reveal的过去式和过去分词		
+habitually		/həˈbɪtʃuəli/						adv.日常地；习惯地		
+thrive		/θraɪv/						vi.兴旺；繁荣；茁壮成长		
+departure		/dɪˈpɑːrtʃər/						n.出发；离开；分歧；新的尝试		
+compliant		/kəmˈplaɪənt/						adj.适用的；顺从的		
+tedious		/ˈtiːdiəs/						adj.单调乏味的；沉闷的		
+estimates		/'estɪməts/						n.估计	名词estimate的复数形式.		
+dedication		/ˌdedɪˈkeɪʃn/						n.奉献；献词；献堂礼		
+sincerely		/sɪnˈsɪrli/						adv.真诚地；真心地		
+opponent		/əˈpoʊnənt/						n.对手；反对者；敌手	adj.反对的；敌对的		
+negotiate		/nɪˈɡoʊʃieɪt/						vi.谈判；协商；交涉	vt.谈判达成；成功越过；议价出售		
+static		/ˈstætɪk/						adj.静态的；静止的；稳定的；静力的；静电的	n.静电；静电干扰		
+degraded		/dɪ'greɪdɪd/						adj.被贬低的；堕落的	动词degrade的过去式和过去分词.		
+convert		/kənˈvɜːrt/						v.(使)转变；使…改变信仰；转化；兑换；换算	n.皈依者；改变信仰的人		
+dynamic		/daɪˈnæmɪk/						adj.动力的；动态的；有活力的；【音】力度变化的	n.动力；动力学		
+pilot		/ˈpaɪlət/						n.飞行员；领航员；试播节目；<美>排障器；[机]导向器	v.驾驶；领航；向导；试点	adj.试验性的；引导的		
+inquiry		/ɪn'kwaɪrɪ/						n.调查；询问；打听；查问	=enquiry(英).		
+enlightening		/ɪnˈlaɪtnɪŋ/						adj.有启迪的；使人感悟的	动词enlighten的现在分词.		
+advocate		/ˈædvəkeɪt/						v.提倡；主张	n.拥护者；提倡者；律师；辩护者		
+thereof		/ˌðerˈʌv/						adv.由此；其；关于它的		
+restored		/rɪ'stɔːd/						adj.恢复的		
+restricted		/rɪˈstrɪktɪd/						adj.受限制的；有限的；保密的	动词restrict的过去式和过去分词.		
+custody		/ˈkʌstədi/						n.拘留；监禁；监护；羁押		
+lure		/lʊr/						vt.诱惑；吸引	n.诱惑；吸引力；饵		
+precedent		/ˈpresɪdənt/						n.先例；惯例	adj.先前的；在先的		
+charred		/tʃɑːrd/						adj.烧焦的	动词char的过去式和过去分词形式.		
+flames		/fleɪmz/						n.火焰	名词flame的复数形式.		
+engulf		/ɪnˈɡʌlf/						vt.吞没；席卷；吞噬		
+elope		/ɪˈloʊp/						v.私奔；潜逃		
+restore		/rɪˈstɔːr/						vt.恢复；归还；复原		
+ode		/oʊd/						n.颂诗；赋		
+elevate		/ˈelɪveɪt/						vt.举起；提拔；素养提升；鼓舞	vi.变高		
+significant		/sɪɡˈnɪfɪkənt/						adj.重要的；有意义的；意味深长的；显著的		
+smaller		/s'mɔːlər/						adj.较小的		
+decided		/dɪˈsaɪdɪd/						adj.确定的；坚决的	动词decide的过去式和过去分词.		
+farewell		/ˌferˈwel/						int.再会；别了	n.告别	adj.告别的		
+sniff		/snɪf/						vi.嗅；嗤之以鼻；找出	vt.嗅到；吸入；嗤之以鼻地说	n.嗅；吸气；气味		
+exercise		/ˈeksərsaɪz/						n.运动；练习；作业	vt.运用	vi.锻炼		
+arbitrary		/ˈɑːrbətreri/						adj.任意的；专制的；武断的；霸道的		
+interpreting		/ɪn'tɜːprɪtɪŋ/						n.口译；解释	动词interpret的现在分词.		
+dispatching		/dɪs'pætʃɪŋ/						n.调度；派遣	动词dispatch的现在分词.		
+assist		/əˈsɪst/						vt.帮助；协助	vi.帮助；出席	n.帮助；协助；助攻；协助的器械		
+tweak		/twiːk/						v.拧；扭；拉；微调	n.拧；扭；捏；<俚>妙计		
+shift		/ʃɪft/						v.移动；改变；换挡；字型转换	n.轮班；变化；移动；计谋；轮班职工		
+payroll		/ˈpeɪroʊl/						n.工资单；工薪总额		
+EST		/ˌiːesˈtiː/						abbr.美国东部标准时间（=Eastern Standard Time）		
+unfortunate		/ʌnˈfɔːrtʃənət/						adj.不幸的；令人遗憾的	n.不幸的人		
+triton		/'traɪtn/						n.三重氢核；[希神]特赖登(人身鱼尾的海神)		
+uglify		/'ʌglɪˌfaɪ/						v.使丑；弄成难看；糟蹋		
+beautifier		/'bjuːtəˌfaɪə/						n.造美的东西		
+compressor		/kəmˈpresər/						n.压缩机		
+mangler		/'mæŋglə/						n.压延机(轧机操作人员)		
+toward		/təˈwɔːd/						prep.向；朝；对于；接近；关于；将近	adj.有希望的；有利的；逼近的		
+dogfooding		/'dɒgfuːdɪŋ/						n.（软件）自我试用		
+due		/duː/						adj.应有的；到期的；预定的；应付的	n.应得物；会费		
+afterwards		/ˈæftərwərdz/						adv.以后；后来		
+fairly		/ˈferli/						adv.公正地；相当地		
+acknowledged		/ək'nɒlɪdʒd/						adj.公认的，得到普遍认可的	v.承认，认可；告知收到（动词acknowledge的过去式和过去分词）		
+removal		/rɪˈmuːvl/						n.移动；搬迁；除去；开除		
+majority		/məˈdʒɔːrəti/						n.大多数；多数；多数党；多数派		
+vast		/væst/						adj.巨大的；广阔的		
+enumeration		/ɪˌnjuːməˈreɪʃn/						n.计算；列举；细目		
+schema		/ˈskiːmə/						n.图解；计划；模式；纲要		
+obsolete		/ˌɑːbsəˈliːt/						adj.已废弃的；过时的		
+dummy		/ˈdʌmi/						n.傀儡；假人；仿制品；笨蛋；哑巴	adj.假的；仿造的	vt.保密		
+extract		/ˈekstrækt/						vt.摘录；提取；拔出；榨出；选取	[计算机] 提取.	n.摘录；精华；榨出物		
+delegate		/ˈdelɪɡeɪt/						n.代表	v.派 ... 为代表；委派；授权；委托		
+lambda		/ˈlæmdə/						n.希腊字母的第11个		
+hectic		/ˈhektɪk/						adj.忙乱的；兴奋的；[医]发热的；发红的		
+standby		/ˈstændbaɪ/						n.备用；待命者	adj.备用的；应急的		
+portion		/ˈpɔːrʃn/						n.部分；命运；分担的责任；份	v.分配；命运注定		
+outage		/ˈaʊtɪdʒ/						n.断电；中断供应；储运损耗		
+rationale		/ˌræʃəˈnæl/						n.基本原理；基础理论		
+distribution		/ˌdɪstrɪˈbjuːʃn/						n.分布；分发；分配；散布；销售量		
+manipulate		/məˈnɪpjuleɪt/						vt.操纵；操作；控制；利用；(巧妙地)处理；篡改		
+extending		/ɪk'stendɪŋ/						n.伸长	动词extend的现在分词.		
+privilege		/ˈprɪvəlɪdʒ/						n.特权；荣幸；特别恩典；基本人权	vt.给特权；免除		
+rarely		/ˈrerli/						adv.很少；难得		
+recipient		/rɪˈsɪpiənt/						n.接受者；收信人		
+thick		/θɪk/						adj.厚的；浓密的；粗的；愚笨的		
+vendor		/ˈvendər/						n.自动售货机；小贩；卖方；供货商	=vender		
+competitors		/kəm'petɪtəz/						竞争对手		
+symptoms		/'sɪmptəmz/						n.症候	名词symptom的复数形式.		
+tricky		/ˈtrɪki/						adj.棘手的；狡猾的；巧妙的		
+interval		/ˈɪntərvl/						n.间隔；休息时间；(数学)区间；(音乐)音程		
+previously		/ˈpriːviəsli/						adv.先前；在此之前		
+Bellevue								n.贝尔维		
+MSFT								Microsoft Corporation 微软公司		
+belated		/bɪˈleɪtɪd/						adj.迟来的		
+awhile		/əˈwaɪl/						adv.片刻；一会儿		
+authenticate		/ɔːˈθentɪkeɪt/						v.证明...为真；验证		
+construct		/kənˈstrʌkt/						vt.建造；构筑；造(句)	n.构想		
+integrate		/ˈɪntɪɡreɪt/						v.整合；结合；取消隔离；求积分	adj.完整的；组合的		
+Geneva		/dʒəˈniːvə/						n.日内瓦（瑞士城市）		
+flush		/flʌʃ/						v.冲洗；发红；将某人赶出	n.脸红；冲洗；（纸牌）同花牌；【计算机】冲洗		
+fetch		/fetʃ/						vt.取来；卖得；给（某人）一击	n.取得		
+indent		/ɪnˈdent/						n.订货单	n.凹痕	v.切割成锯齿状；缩排；定货		
+instantiate		/ɪns'tænʃɪeɪt/						v.例示；举例说明		
+seek		/siːk/						vt.寻求；追求；试图	vi.寻找		
+ban		/bæn/						v.禁止；剥夺权利	n.禁令；禁止		
+stuff		/stʌf/						n.东西；原料；材料	n.素质；本质；废物；无用的想法；废话，蠢话	vt.塞满；填满		
+strive		/straɪv/						vi.奋斗；努力；力求；斗争		
+integrity		/ɪnˈteɡrəti/						n.完整；完善；正直；诚实		
+reactivate		/riˈæktɪveɪt/						v.重新运转；恢复活动		
+reverse		/rɪˈvɜːrs/						v.逆转；倒退；互换；改变	adj.相反的；反面的；颠倒的	n.相反；背面；失败；倒档		
+mixed		/mɪkst/						adj.混合的；男女混合的	mix的过去式和过去分词.		
+excerpts		/'eksɜːpt/						n.摘录；节录	名词excerpt的复数形式.		
+guaranteed		/'gærən'tiːd/						adj.保证的；担保的	动词guarantee的过去式和过去分词.		
+nth		/enθ/						adj.极度的；第n个的		
+exceeded		/ɪk'siːdɪd/						adj.超过的；超出的	动词exceed的过去式和过去分词形式.		
+sparse		/spɑːrs/						adj.稀少的；稀疏的		
+yield		/jiːld/						v.生产；获利；屈服；弯下去	n.投资收益；生产量		
+purchased		/'pɜːtʃəst/						adj.购买的	动词purchase的过去式和过去分词.		
+patterns		/'pætənz/						n.式样；图案；样式；模式	名词的pattern复数形式.		
+anti		/ˈænti/						n.反对者	adj.反对的	prep.反对		
+audience		/ˈɔːdiəns/						n.听众；观众；读者；倾听；拥护者；正式会见		
+consult		/kənˈsʌlt/						v.查阅；请教；商讨；就诊		
+shoulder		/ˈʃoʊldər/						n.肩膀；肩部	v.承担；扛；肩负；(用肩)推挤		
+ideally		/aɪˈdiːəli/						adv.理想地；完美地；观念上地		
+bombard		/bɑːmˈbɑːrd/						v.炮轰；攻击；[核]以高速粒子撞击	n.射石炮		
+cooperation		/koʊˌɑːpəˈreɪʃn/						n.合作；协作；合作社；协同作用		
+tournament		/ˈtʊrnəmənt/						n.锦标赛；比赛；比武		
+iteration		/ˌɪtəˈreɪʃn/						n.迭代；迭代法；循环；重复		
+verbal		/ˈvɜːbl/						adj.口头的；用言语的；用文字的；逐字的；动词的	n.动名词		
+threshold		/ˈθreʃhoʊld/						n.门槛；开端；界限；入口		
+infrastructure		/ˈɪnfrəstrʌktʃər/						n.基础；基础设施		
+chase		/tʃeɪs/						vt.追捕；追求；镂刻，雕刻；试图赢得	vi.奔跑；追赶	n.追捕；争取；狩猎		
+simultaneous		/ˌsaɪmlˈteɪniəs/						adj.同时发生的；同步的		
+pitfalls		/'pɪtfɔːlz/						误区		
+scale		/skeɪl/						n.刻度；等级，规模；音阶；量程；天枰，磅秤；鳞片，鳞状物	v.攀登；按比例决定；称重；刮鳞；剥落		
+proposed		/prə'poʊzd/						adj.被提议的		
+representations		/reprɪzen'teɪʃnz/						n.陈述		
+decrease		/dɪˈkriːs/						v.减少；减小；降低	n.减少；降低		
+interacting		/ɪntə'ræktɪŋ/						n.相互影响	动词interact的现在分词形式.		
+traverse		/trəˈvɜːrs/						n.横贯；横木	v.横贯；穿越；详细讨论；阻止；否认；【计】遍历		
+mechanisms		/'mekənɪzəmz/						机制		
+quotas		/k'wəʊtəz/						定额		
+prerequisites		/priː'rekwɪzɪts/						先决条件		
+mandatory		/ˈmændətɔːri/						adj.法定的；义务的；强制性的；受委托的	n.受托管理者		
+sufficient		/səˈfɪʃnt/						adj.足够的；充分的		
+backbone		/ˈbækboʊn/						n.脊骨；骨干；骨气；毅力		
+delta		/ˈdeltə/						n.(河流的)三角洲；希腊语第四个字母（Δ、δ）		
+compulsory		/kəmˈpʌlsəri/						adj.强制的；势在必行的；义务的		
+odd		/ɑːd/						adj.奇数的；古怪的；零散的；剩余的		
+imperative		/ɪmˈperətɪv/						adj.紧要的；必要的；祈使的	n.紧要的事；命令；义务；驱使		
+definitely		/ˈdefɪnətli/						adv.肯定地；当然地；明确地		
+valuable		/ˈvæljuəbl/						adj.贵重的；宝贵的	n.(pl.)贵重物品		
+dirty		/ˈdɜːrti/						adj.脏的；肮脏的；下流的；卑鄙的；腐败的；不正当的	v.弄脏；玷污		
+represent		/ˌreprɪˈzent/						vt.表现；表示；描绘；代表；象征；说明；阐明	vi.提出异议		
+restriction		/rɪˈstrɪkʃn/						n.限制；约束		
+divided		/dɪˈvaɪdɪd/						adj.意见分歧的；分裂的	动词divide的过去式及过去分词.		
+anonymous		/əˈnɑːnɪməs/						adj.匿名的；无名的；没特色的		
+expose		/ɪkˈspoʊz/						vt.揭露；使曝光；使面临；使暴露		
+pagination		/ˌpædʒɪˈneɪʃn/						n.分页；标注页码		
+allocations								n.分配，配置（allocation的复数形式）；拨款；分配款		
+pursue		/pərˈsuː/						v.追求；追捕；继续执行；从事		
+conjunction		/kənˈdʒʌŋkʃn/						n.结合；关联；连词；(事件等的)同时发生		
+robust		/roʊˈbʌst/						adj.强健的；稳固的；耐用的；粗野的；浓的		
+assume		/əˈsuːm/						vt.假定；设想；承担；(想当然的)认为；假装		
+fuzzy		/ˈfʌzi/						adj.毛茸茸的；模糊的；含糊不清的（感情）		
+unified		/'juːnɪfaɪd/						adj.统一的	动词unify的过去式和过去分词.		
+utility		/juːˈtɪləti/						n.效用；实用；公用事业（费）；[计]应用程序	adj.多效用的；多功能的		
+delivery		/dɪˈlɪvəri/						n.传递；交付；递送；分娩；转让；演讲姿态；投球		
+impersonation		/ɪmˌpɜːsəˈneɪʃn/						n.扮演；装扮；模仿；准则		
+appropriate		/əˈproʊpriət/						adj.适当的；相称的	vt.占用；拨出(款项)		
+onboard		/'ɒn'bɔːd/						adj.机上的；装载的	adv.在板子上		
+acquire		/əˈkwaɪər/						vt.获得；学到；取得		
+reach		/riːtʃ/						v.到达；伸出；达成；取得联系；延伸；（伸手）去够	n.范围；影响力；河段；等级		
+leverage		/ˈlevərɪdʒ/						n.杠杆；杠杆作用；举债经营	v.举债经营；补充(金钱等)；对…产生影响		
+optimized		/'ɒptɪmaɪzd/						adj.最佳化的；优化的	动词optimize的过去式和过去分词形式.		
+gain		/ɡeɪn/						n.获得；收益；增益	v.获得；到达；增加；获利；(钟、表等)走得快		
+bearer		/ˈberər/						n.持票者；带信人；承担人；脚夫；搬运工；能开花结果的植物；柩夫		
+sushi		/ˈsuːʃi/						n.寿司(一种日本食品)		
+independent		/ˌɪndɪˈpendənt/						adj.独立的；自主的；独自的；无偏见的	n.无党派者；独立派人士		
+exceeding		/ɪk'siːdɪŋ/						adj.超越的；非常的	动词exceed的现在分词形式.		
+violate		/ˈvaɪəleɪt/						v.侵犯；违反；扰乱；亵渎；强奸		
+syntactically		/sɪnˈtæktɪkli/						adv.依照文章构成法地；在语句构成上		
+involve		/ɪnˈvɑːlv/						vt.包含；使忙于；牵涉；使卷入；使陷入		
+immutable		/ɪˈmjuːtəbl/						adj.不可变的；不变的		
+plain		/pleɪn/						adj.清楚的；简单的；坦白的；平常的；朴素的；纯的	n.平原；广阔的区域	adv.完全地；纯粹地		
+revoke		/rɪˈvoʊk/						vt.撤回，取消，废除	vi.藏牌，有牌不跟	n.藏牌		
+request		/rɪˈkwest/						n.请求；要求	vt.请求；要求		
+strictly		/ˈstrɪktli/						adv.严格地；完全地		
+delimited		/dɪ'lɪmɪtɪd/						adj.有界限的；界限划定；或确定的	动词delimit的过去式和过去分词.		
+subset		/ˈsʌbset/						n.【C】子集		
+restrict		/rɪˈstrɪkt/						vt.限制；约束		
+scope		/skoʊp/						n.机会；范围；眼界；观看的仪器	vt.仔细研究		
+correspond		/ˌkɔːrəˈspɑːnd/						v.符合；对应；通信		
+cache		/kæʃ/						n.隐藏所；藏身处；【计】高速缓冲存储器；缓存	v.把……藏起来；【计】把……储存于超高速缓冲存储器		
+regardless		/rɪˈɡɑːrdləs/						adj.不顾的；不注意的	adv.不顾		
+implicit		/ɪmˈplɪsɪt/						adj.含蓄的；绝对的；无疑问的；固有的；无保留的；暗示的		
+subsequent		/ˈsʌbsɪkwənt/						adj.随后的；后来的		
+throttle		/ˈθrɑːtl/						n.节流阀；油门；喉咙	v.扼喉咙；使窒息		
+volume		/ˈvɑːljuːm/						n.卷；体积；册；音量；容量		
+anticipate		/ænˈtɪsɪpeɪt/						vt.预期；提前使用；抢 ... 前	vi.预言		
+quota		/ˈkwoʊtə/						n.限额；配额；定额；最低票数		
+exceed		/ɪkˈsiːd/						vt.超过；超出	vi.领先		
+rate		/reɪt/						n.比率；速度；价格；费用；等级	v.认为；估价；定等级；值得；怒斥；责骂		
+intact		/ɪnˈtækt/						adj.完好无缺的；原封不动的；未经触碰的		
+incident		/ˈɪnsɪdənt/						n.事变；事件；插曲	adj.难免的；附带的		
+aggregate		/ˈæɡrɪɡət/						adj.合计的；总的	n.总计；进球总数；集料	v.（使）聚集；总计		
+undergo		/ˌʌndərˈɡoʊ/						vt.经历；经受；遭受		
+dive		/daɪv/						n.潜水；跳水	vi.跳水；俯冲；潜心钻研		
+interactive		/ˌɪntərˈæktɪv/						adj.相互作用的；交互的		
+instance		/ˈɪnstəns/						n.例子；场合；情况；要求；诉讼程序	vt.举例说明		
+extensive		/ɪkˈstensɪv/						adj.广泛的；广阔的；广大的；大量的		
+permanently		/ˈpɜːmənəntli/						adv.永久地		
+deactivate		/ˌdiːˈæktɪveɪt/						v.使无效；使不活动；解散部队		
+substitute		/ˈsʌbstɪtuːt/						n.代用品；代替者；替补队员	vt.代替；用 ... 代替；代以		
+monopoly		/məˈnɑːpəli/						n.垄断；独占；专利；控制		
+perspective		/pərˈspektɪv/						n.远景；看法；透视	adj.透视的		
+Kansas		/ˈkænsəz/						n.堪萨斯州（美国中部一州）		
+ride		/raɪd/						v.骑；乘	n.交通工具；骑；乘车；搭便车		
+jump		/dʒʌmp/						n.跳跃；跳动；上涨	v.跳越；暴涨		
+nickel		/ˈnɪkl/						n.镍；镍币；五分镍币	vt.镀镍于		
+slang		/slæŋ/						n.俚语；行话	vt.使用俚语；辱骂	vi.辱骂		
+trolley		/ˈtrɑːli/						n.手推车；<美>电车		
+cruising		/'kruːzɪŋ/						n.巡航	动词cruise的现在分词形式.		
+jitney		/'dʒɪtnɪ/						n. <俚>五分硬币； 镍币； 小公共汽车		
+survive		/sərˈvaɪv/						vt.幸免于难；存活；艰难度过；比 ... 活得长	vi.活着；继续存在		
+pollution		/pəˈluːʃn/						n.污染；污染物		
+congestion		/kənˈdʒestʃən/						n.阻塞；拥挤；充血		
+transportation		/ˌtrænspɔːrˈteɪʃn/						n.运输；运输工具；运输系统		
+reclaim		/rɪˈkleɪm/						v.收回；回收；纠正；开垦		
+Bii								n.输入分块因子		
+markup		/ˈmɑːrkkʌp/						n.涨价；成本加价率；标记	n.（美）议案的审订		
+versioning		/'vɜːʃnɪŋ/						n.有版本		
+noun		/naʊn/						n.名词		
+plural		/ˈplʊrəl/						adj.复数的	n.复数		
+intuitive		/ɪnˈtuːɪtɪv/						adj.直觉的		
+infer		/ɪnˈfɜːr/						vt.推断；猜测；暗示	vi.作出推论		
+reputation		/ˌrepjuˈteɪʃn/						n.好名声；声誉，名声，名气		
+explicitly		/ɪkˈsplɪsɪtli/						adv.明白地；明确地		
+etc		/'etk/						abbr.及其他；等等(=Et cetera)	abbr.流出物处理元件 (= effluent treatment cell)		
+asset		/ˈæset/						n.资产；优点；有用的东西		
+retrieve		/rɪˈtriːv/						vt.恢复；挽回；取回	vi.找回猎物	n.恢复；取回；救出险球		
+chunk		/tʃʌŋk/						n.矮胖的人或物；厚块（片）；相当大的量	vt.（高尔夫球）没击中	vi.发出猛冲的声音		
+underlying		/ˌʌndərˈlaɪɪŋ/						adj.潜在的；隐含的；在下面的；基本的；<经>优先的	动词underlie的现在分词		
+constructors		/kənst'rʌktəz/						n.构造器		
+locale		/loʊˈkæl/						n.现场；场所		
+insensitivity		/ɪnˌsensəˈtɪvəti/						n.钝性；不灵敏性；不敏感；昏迷		
+troll		/troʊl/						v.反复；轮唱(歌曲)；用曳绳钓；搜索；滚动	n.钓绳；钓饵	n.巨人；巨怪		
+recursively		/rɪ'kəsɪvlɪ/						adv.递归地		
+Precautions								警惕		
+hassle		/ˈhæsl/						n.困难；争吵；麻烦	v.烦扰；麻烦		
+ambitious		/æmˈbɪʃəs/						adj.有雄心的；野心勃勃的；有抱负的		
+verb		/vɜːb/						n.动词		
+concrete		/ˈkɑːŋkriːt/						adj.具体的；实质性的；混凝土的	n.水泥；混凝土；具体物	v.凝结；结合		
+pseudocode		/'sjuːdoʊˌkoʊd/						n.伪码		
+achieve		/əˈtʃiːv/						v.完成；达到；实现		
+illustrate		/ˈɪləstreɪt/						vt.说明；（为书）作插图；图解	vi.举例说明；发亮		
+indirectly		/ˌɪndəˈrektlɪ/						adv.间接地		
+specify		/ˈspesɪfaɪ/						v.详细说明；指定；阐述		
+trigger		/ˈtrɪɡər/						v.使发生；触发；使运行	n.扳机；起因		
+reenter		/riː'entə/						v.重新进入		
+arse		/ɑːrs/						n.<俚>屁股；笨蛋	v.举动愚蠢		
+spins		/spɪnz/						尖硬纤维		
+demand		/dɪˈmænd/						n.要求；需求	v.要求；查问；需要		
+gracious		/ˈɡreɪʃəs/						adj.亲切的；高尚的；仁慈的；和蔼的；优雅的		
+operation		/ˌɑːpəˈreɪʃn/						n.操作；运转；经营；行动；手术；运算；生效；（复）运筹学		
+regional		/ˈriːdʒənl/						adj.地区的；局部的；当地的；方言的	n.分部		
+charming		/ˈtʃɑːrmɪŋ/						adj.迷人的		
+REP		/rep/						n.距离公算偏差(代表性)		
+w/o								abbr.=without		
+tune		/tuːn/						n.曲调；调子；和谐；协调；数量	vt.为 ... 调音；调整	vi.调音；调整频率		
+audio		/ˈɔːdioʊ/						adj.声音的；成音频率的	n.音频；音响设备		
+slash		/slæʃ/						v.猛砍；乱砍；鞭打；割伤；尖锐抨击；大幅减少	n.猛砍；斜线；长切口；衣衩；撒尿；沼泽地		
+tolerate		/ˈtɑːləreɪt/						vt.容许；忍受；容忍		
+scrub		/skrʌb/						n.用力擦洗；矮树；渺小之物	v.用力擦洗		
+increment		/ˈɪŋkrəmənt/						n.增量；增加；增值；增额		
+behavior		/bɪ'heɪvjə/						n.行为；举止；习性；态度		
+prioritization		/praɪˌɒrətaɪˈzeɪʃn/						n.优先化		
+caution		/ˈkɔːʃn/						n.警告；慎重；戒备；吸引人眼球的人或物	vt.警告；劝告		
+jog		/dʒɑːɡ/						v.慢跑；轻推；（使）颠簸前行	n.慢跑；轻推；颠簸		
+validating		/'vælɪdeɪtɪŋ/						adj.验证的；证实的	动词validate的现在分词形式.		
+sufficiently		/səˈfɪʃntli/						adv.足够地；充分地		
+designated		/'dezɪɡneɪtɪd/						adj.指定的；特指的		
+blessed		/ˈblesɪd/						adj.神圣的；有福的；愉快的；<口>该死的	动词bless的过去式和过去分词.		
+vigilant		/ˈvɪdʒɪlənt/						adj.警戒的；警惕的		
+tape		/teɪp/						n.磁带；胶布；终点	v.录音；录像；用胶布粘；用绳子捆绑；用卷尺测量		
+birdbrain		/ˈbɜːrdbreɪn/						n.愚蠢；轻佻的人		
+perspicacious		/ˌpɜːrspɪˈkeɪʃəs/						adj.颖悟的；聪明的；有洞察力的		
+emphasis		/ˈemfəsɪs/						n.强调；重点；[语]加强语气		
+collaborative		/kəˈlæbəreɪtɪv/						adj.协作的；合作的		
+referred		/rɪ'fɜːrɪd/						v.归类(谈及；送交；参考；指点；折合)	动词refer的过去式和过去分词.		
+routine		/ruːˈtiːn/						n.例行公事；常规；无聊	adj.常规的；例行的；乏味的		
+injection		/ɪnˈdʒekʃn/						n.注射；注射物；数学函数		
+top-notch								adj.拔尖的		
+demonstrate		/ˈdemənstreɪt/						vt.证明；演示；示范	vi.示威		
+proficiency		/prəˈfɪʃnsi/						n.熟练；精通		
+discipline		/ˈdɪsəplɪn/						n.纪律；训练；学科	vt.训练；惩罚		
+degree		/dɪˈɡriː/						n.学位；程度；度数		
+bachelor		/ˈbætʃələr/						n.单身汉；学士		
+originally		/əˈrɪdʒənəli/						adv.原本；起初；独创地		
+reassess		/ˌriːəˈses/						v.再评价；再摊派；再课税		
+address		/əˈdres/						n.住址；网址；电子邮箱地址；称呼；致词；讲话；演讲；谈吐	v.称呼；发表演说；提出；写地址；处理		
+Portuguese		/ˌpɔːrtʃuˈɡiːz/						n.葡萄牙语；葡萄牙人	adj.葡萄牙的；葡萄牙人的；葡萄牙语的		
+Inc								abbr.公司(=incorporated )		
+global		/ˈɡloʊbl/						adj.全球性的；总的；球状的		
+formerly		/ˈfɔːrmərli/						adv.以前；从前		
+freelancers		/f'riːlɑːnsəz/						自由职业人员		
+residence		/ˈrezɪdəns/						n.住宅；住处；居住		
+phenomenon		/fəˈnɑːmɪnən/						n.现象；奇人；奇事		
+buzzword		/ˈbʌzwɜːrd/						n.流行词；行话；漂亮口号		
+alternatively		/ɔːlˈtɜːrnətɪvli/						adv.二者择一地；作为选择；或者		
+errata		/eˈrɑːtə/						n.正误表；勘误		
+pattern		/ˈpætərn/						n.模式；图案；典范；式样	v.以图案装饰；仿造；模仿		
+harness		/ˈhɑːrnɪs/						n.马具；安全带；甲胄；系在身上的绳子	vt.束以马具；披上甲胄；利用；管理；控制		
+subscription		/səbˈskrɪpʃn/						n.订阅；签署；同意；捐款；会费		
+metadata		/ˈmetədeɪtə/						n.[计]元数据		
+initiate		/ɪˈnɪʃieɪt/						vt.开始；创始；启蒙；介绍加入	n.创始人	adj.新加入的；启蒙的		
+terminology		/ˌtɜːrməˈnɑːlədʒi/						n.术语；术语学		
+gen		/dʒen/						n.<口>资料	v.<口>获得情报	abbr.将军（=general）	gen-: pref.种族；类（=geno-）		
+external		/ɪkˈstɜːrnl/						adj.外来的；外部的；外面的；表面的	n.外观；外部；外界事物		
+conclusion		/kənˈkluːʒn/						n.结尾；结论；结束		
+kick		/kɪk/						v.踢；反冲	n.踢；反冲；后座力		
+latter		/ˈlætər/						adj.后者的；后面的		
+regulations		/reɡjʊ'leɪʃnz/						n.规程；条例	名词regulation的复数形式.		
+compliance		/kəmˈplaɪəns/						n.顺从；服从；遵守；屈服；柔度；灵活性		
+escalation		/ˌeskəˈleɪʃn/						n.逐步扩大；增加		
+evaluating		/ɪ'væljʊeɪtɪŋ/						n.评估	动词evaluate的现在分词.		
+escalate		/ˈeskəleɪt/						vt.升级	vi.升高；逐步升级		
+complete		/kəmˈpliːt/						adj.完整的；完成的；彻底的	vt.完成；使完美；使圆满；填（表格等）		
+satisfied		/ˈsætɪsfaɪd/						adj.感到满意的		
+determine		/dɪˈtɜːrmɪn/						v.决定；决心；确定；测定		
+temperature		/ˈtemprətʃər/						n.气温；体温；温度；发烧		
+direct		/dəˈrekt/						adj.直接的；笔直的；坦白的	v.对准；指挥；指示；命令		
+certain		/ˈsɜːrtn/						adj.确定的；肯定的；某事；某人；某种；（与人名连用；表示不认识此人）一位叫...；特定的；轻微的；微小的	pron.某些；某几个		
+implement		/ˈɪmplɪmənt/						n.工具；器具；当工具的物品	vt.实施；执行；向 ... 提供工具(或手段)		
+validation		/ˌvælɪˈdeɪʃn/						n.确认；批准；验证		
+audit		/ˈɔːdɪt/						n.审计；查帐	vt.旁听；审计		
+populated		/'pɒpjʊleɪtɪd/						adj.人口稠密的	动词populate的过去式和过去分词.		
+compromise		/ˈkɑːmprəmaɪz/						n.妥协；折衷；折衷案；和解	vt.妥协处理；危害	vi.妥协，和解；让步		
+cost		/kɔːst/						n.费用；成本；代价；[律]诉讼费用	v.花费；使付出；使做不愉快的事；估算成本		
+accurate		/ˈækjərət/						adj.准确的；精确的		
+Felstead								n.费尔斯特德		
+array		/əˈreɪ/						n.一系列；大批；数组；陈列，列队；盛装	vt.排列；部署；打扮		
+tuned		/tjuːnd/						adj.调谐的；调好台的	动词tune的过去式和过去分词.		
+eta		/ˌiːtiːˈeɪ/						n.希腊语字母的第七字	估计到达时间(Estimated Time of Arrival).		
+triage		/triːˈɑːʒ/						n.伤员鉴别分类；优先分配；分类		
+consistent		/kən'sɪstənt/						adj.始终如一的；持续的；一致的		
+regarding		/rɪˈɡɑːrdɪŋ/						prep.关于；至于		
+reminder		/rɪˈmaɪndər/						n.提醒物；提示；催单		
+various		/ˈveriəs/						adj.各种各样的		
+reiterate		/riˈɪtəreɪt/						vt.重申		
+presume		/prɪˈzuːm/						vt.假定；推测；姑且认定；认为是理所当然	vi.越权行事；利用		
+conventions		/kən'venʃnz/						n.约定；协定	名词convention的复数形式.		
+accent		/ˈæksent/						n.重音；口音；强调	vt.重读；强调		
+milestone		/ˈmaɪlstoʊn/						n.里程碑		
+milestones								n.里程碑（milestone的复数）		
+synergy		/ˈsɪnərdʒi/						n.协同作用；增效作用		
+subscribe		/səbˈskraɪb/						vt.订阅；签名；支持；捐赠；同意		
+mechanism		/ˈmekənɪzəm/						n.机制；原理	n.结构；机构；机械装置		
+revision		/rɪˈvɪʒn/						n.修订本；校订；修正；复习		
+judiciously		/dʒuˈdɪʃəsli/						adv.明智而审慎地；有见地地		
+associated		/əˈsoʊʃieɪtɪd/						adj.联合的；相关的		
+elsewhere		/ˌelsˈwer/						adv.别处		
+versa		/'vɜːsə/						adj.反		
+vice		/vaɪs/						n.缺点；恶习；邪恶；罪行；生理缺陷	adj.副的；代理的	prep.代替	pref.代理的；副的	n.老虎钳		
+dimmed		/dɪmd/						adj.暗淡的；无效的	动词dim的过去式和过去分词.		
+transparently		/trænsˈpærəntli/						adv.透明地；明显地		
+thereafter		/ˌðerˈæftər/						adv.其后；从那时以后		
+designate		/ˈdezɪɡneɪt/						vt.指定；标明；把...定名为；选派	adj.指定的		
+procedure		/prəˈsiːdʒər/						n.程序；手续；步骤		
+purpose		/ˈpɜːrpəs/						n.目的；决心；意图；议题	v.打算；决意		
+puzzle		/ˈpʌzl/						n.难题；谜；迷惑；拼图游戏	vt.使为难；使困惑	vi.苦思；迷惑		
+jigsaw		/ˈdʒɪɡsɔː/						n.拼图游戏；缕花锯；竖锯	vt.用竖锯锯；使互相交错搭接		
+utilize		/ˈjuːtəlaɪz/						vt.<美>利用或使用	=utilise（英）		
+velocity		/vəˈlɑːsəti/						n.速度；迅速；速率		
+qualifying		/k'wɒlɪfaɪɪŋ/						adj.使具有资格的	动词qualify的现在分词形式.		
+directive		/dəˈrektɪv/						adj.指导的；指挥的；管理的	n.指令		
+declare		/dɪˈkler/						v.宣布（声明）；申报；声明		
+Angie								n.安吉(人名)		
+reside		/rɪˈzaɪd/						vi.居住；属于；存在		
+defect		/ˈdiːfekt/						n.缺点；缺陷	vi.背叛		
+enquiry		/ˈɪnkwəri/						n.(=inquiry) 询问		
+surname		/ˈsɜːrneɪm/						n.姓；绰号	vt.冠姓；以别名称呼		
+headquarters		/ˈhedkwɔːrtərz/						n.总部；司令部；指挥部		
+discontinuous		/ˌdɪskənˈtɪnjuəs/						adj.不连续的；中断的；间断的；[数]含一个或多个不连续点的(如函数)		
+deprecate		/ˈdeprəkeɪt/						v.声明不赞成；抨击；反对		
+strategy		/ˈstrætədʒi/						n.策略；战略		
+align		/əˈlaɪn/						vt.使结盟；使一致；使成一行；调整；排列	vi.成一条线		
+aligns		/ə'laɪnz/						[ align ]的第三人称单数		
+acquisition		/ˌækwɪˈzɪʃn/						n.获得；所获之物；采集		
+nephew		/ˈnefjuː/						n.外甥；侄子		
+deactivated		/diː'æktɪveɪtɪd/						adj.无效的	动词deactivate的过去式和过去分词.		
+reference		/ˈrefrəns/						n.参考；参照；出处；推荐人；推荐函	v.注明出处；附参考资料		
+assembly		/əˈsembli/						n.集会；集合；议会；装配；与会者；聚集在一起的人；[计]汇编		
+azure		/ˈæʒər/						n.天蓝色；碧空	adj.蔚蓝的		
+revenue		/ˈrevənuː/						n.税收；收入；税务局		
+falsely		/fɔːlsli/						adv.虚伪地；错误地；不实地		
+accused		/əˈkjuːzd/						n.被告	动词accuse的过去式和过去分词.		
